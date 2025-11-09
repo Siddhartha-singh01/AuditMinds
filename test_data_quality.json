@@ -1,0 +1,22 @@
+{
+  "data": [
+    [1, "Alice", 25],
+    [2, "Bob", 30],
+    [3, "Charlie", 35]
+  ],
+  "columns": ["id", "name", "age"],
+  "schema": {
+    "id": {
+      "type": "integer",
+      "unique": true
+    },
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer",
+      "min": 0,
+      "max": 120
+    }
+  }
+}

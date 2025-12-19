@@ -2,7 +2,7 @@
 
 A comprehensive enterprise-grade platform for ensuring AI model transparency, fairness, and compliance. This platform provides robust tools for model explainability, bias detection, fairness assessment, and regulatory compliance monitoring.
 
-## 🎯 Overview
+## 🎯 Overview   
 
 As AI systems become increasingly critical in enterprise operations, organizations face mounting pressure around trust, transparency, and accountability. This platform addresses these challenges by:
 

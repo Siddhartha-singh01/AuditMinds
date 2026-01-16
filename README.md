@@ -16,7 +16,7 @@ As AI systems become increasingly critical in enterprise operations, organizatio
 ### 1. **AI Decision Logging**
 - Real-time capture of AI decisions via REST API
 - Comprehensive metadata tracking (model name, confidence, inputs/outputs)
-- Automatic versioning and timestamping
+- Automatic versioning and timestamping                                
 
 ### 2. **Explainability Engine**
 - Feature importance analysis showing which factors influenced decisions
